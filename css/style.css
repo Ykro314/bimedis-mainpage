@@ -360,3 +360,8 @@ textarea {
 [type="search"]::-webkit-search-decoration {
   -webkit-appearance: none;
 }
+.inner {
+  max-width: 1180px;
+  box-sizing: border-box;
+  padding: 0 20px;
+}

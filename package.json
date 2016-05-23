@@ -1,5 +1,5 @@
 {
-  "name": "Bimedis Main Page",
+  "name": "Bimedis-MainPage",
   "private": true,
   "devDependencies": {
     "grunt-autoprefixer": "^3.0.3",
